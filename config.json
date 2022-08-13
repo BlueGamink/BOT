@@ -1,6 +1,6 @@
 {
-	"ip":"game4.falixserver.net:56967",
-	"port": "25565",
+	"ip":"game4.falixserver.net",
+	"port": "56967",
 	"name": "SamsulCH",
 	"auto-night-skip":"false"
 }
